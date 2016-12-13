@@ -5,6 +5,7 @@ tap 'puma/puma'
 
 brew 'ack'
 brew 'coreutils'
+brew 'git-extras'
 brew 'go'
 brew 'grc'
 brew 'imagemagick'
