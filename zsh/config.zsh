@@ -37,3 +37,7 @@ bindkey '^[[5D' beginning-of-line
 bindkey '^[[5C' end-of-line
 bindkey '^[[3~' delete-char
 bindkey '^?' backward-delete-char
+
+# export variables
+export AWS_DEFAULT_REGION=us-west-2
+export AWS_REGION=us-west-2
