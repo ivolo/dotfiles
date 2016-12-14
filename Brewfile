@@ -4,6 +4,7 @@ tap 'homebrew/bundle'
 tap 'puma/puma'
 
 brew 'ack'
+brew 'ansible'
 brew 'coreutils'
 brew 'git-extras'
 brew 'go'
