@@ -1,4 +1,4 @@
-# holman does dotfiles
+# calvinfo does dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
 
@@ -51,8 +51,8 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone https://github.com/holman/dotfiles.git ~/.dotfiles
-cd ~/.dotfiles
+git clone https://github.com/calvinfo/dotfiles.git ~/dev/src/github.com/calvinfo/dotfiles
+cd ~/dev/src/github.com/calvinfo/dotfiles
 script/bootstrap
 ```
 
